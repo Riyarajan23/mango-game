@@ -1,2 +1,2 @@
-# mango-game
-vsc
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
