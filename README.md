@@ -1,0 +1,2 @@
+# mango-game
+vsc
